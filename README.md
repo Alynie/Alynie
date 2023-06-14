@@ -1,47 +1,47 @@
 ### Hi there 👋
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg/FF9900" />
 AWS
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg/61DAFB" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/FF9900" />
 React
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg/3178C6" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" />
 TypeScript
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg/339933" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
 Node.js
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg/000000" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933" />
 Express
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg/E0234E" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/express/000000" />
 NestJS
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg/DC382D" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nestjs/E0234E" />
 Redis
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg/764ABC" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/redis/DC382D" />
 Redux
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg/339933" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/redux/764ABC" />
 Next.js
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/expo.svg/000020" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/339933" />
 Expo
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pwa.svg/5A0FC8" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/expo/000020" />
 PWA
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jest.svg/C21325" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/pwa/5A0FC8" />
 Jest
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/testinglibrary.svg/E33332" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jest/C21325" />
 Testing Library
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cypress.svg/17202C" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary/E33332" />
 Cypress
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elastic.svg/005571" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cypress/17202C" />
 Elastic
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kibana.svg/005571" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/elastic/005571" />
 Kibana
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/auth0.svg/EB5424" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/kibana/005571" />
 Auth0
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/okta.svg/007DC1" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/auth0/EB5424" />
 Okta
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/electron.svg/47848F" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/okta/007DC1" />
 Electron
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg/512BD4" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/electron/47848F" />
 .NET
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powershell.svg/5391FE" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />
 PowerShell
+<img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE" />
+
 <!--
 **Alynie/Alynie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
